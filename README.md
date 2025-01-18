@@ -8,11 +8,7 @@
   ![image](https://github.com/user-attachments/assets/2865f073-8ec7-4d2d-bc7a-ced40410d43f)
 
 - Have patience it takes up to 5mins for the status to turn to active
-- {
-  "clientId": "gbJadRWqQYujEqWuUueDfGen",
-  "secret": "twsIsZdIg+B,xXyhNGxiptK.yc1Jd.4s7xUHCeyKPTrU+-c9ZZ.R+MgoM8IztfCHRo2f8bsf3-G6xreJKuBEu35I_FlI.US-jtj3wcZZ-OwfY8JxHB_OS1z+pGv3lj0A",
-  "token": "AstraCS:gbJadRWqQYujEqWuUueDfGen:105663daa7dceb746edb2aea6c451719914511ba29f4f21cc5671002b653cf77"
-}
+
 - To get the token to communicate with the database
 - Click on Token in the left corner
 - Select Administrator user
