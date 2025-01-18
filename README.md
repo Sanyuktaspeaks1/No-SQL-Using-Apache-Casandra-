@@ -50,7 +50,13 @@
 -  Hoppscotch is a free, open-source API development platform designed to make it easier for developers to test and interact with APIs.
 -  Allows users to send requests to APIs and view responses.
 - Supports various HTTP methods (GET, POST, PUT, DELETE, etc.).
-- Headers, query parameters, and request bodies can be customized.
+```diff
+HTTP Methods and Their Purpose:
+GET: Retrieve data from the server.
+POST: Create a new resource on the server.
+PUT: Update or replace an existing resource.
+DELETE: Remove a resource from the server.
+```
   ![image](https://github.com/user-attachments/assets/073ab7fc-a2d6-4968-9b03-64ffa253a1f1)
 - here you paste your document ![image](https://github.com/user-attachments/assets/058b96ca-a209-4332-b065-52aabebb2c48)
 - Select header and type your token
