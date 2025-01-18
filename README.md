@@ -1,5 +1,5 @@
-# No-SQL-Using-Apache-Casandra-
-* Create an account on https://astra.datastax.com/org/172a5578-07ed-40b6-9d7f-073365496181/database
+# No-SQL-Using-Apache-Casandra
+* Create an account on 
 * Click on databases tab
   ![image](https://github.com/user-attachments/assets/fa19d5b4-d3f2-498f-a126-4c36ae54fe18)
 * Then click on create a new database
