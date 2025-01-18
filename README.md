@@ -100,6 +100,11 @@ DELETE: Remove a resource from the server.
 - We will add our keyspace name (Remember we named it as lets_learn)
 ![image](https://github.com/user-attachments/assets/734fab59-62a9-4157-b096-d4ca63d2e462)
 
+## Use the following mutation to create two tables:
+
+A movies table to store movie titles and directors.
+A directors table to store director names and their associated movie titles.
+![image](https://github.com/user-attachments/assets/252c3916-5ec4-41a6-8618-6621dbeb8a37)
 
 
 
