@@ -105,7 +105,32 @@ DELETE: Remove a resource from the server.
 A movies table to store movie titles and directors.
 A directors table to store director names and their associated movie titles.
 ![image](https://github.com/user-attachments/assets/252c3916-5ec4-41a6-8618-6621dbeb8a37)
+```diff
+Add two movies to the movies table using the mutation below. This will insert:
 
+"Inception" directed by "Christopher Nolan"
+"Interstellar" directed by "Christopher Nolan"
+```
+```diff
+mutation {
+  inception: insertmovies(
+    value: { title: "Inception", director: "Christopher Nolan" }
+  ) {
+    value {
+      title
+    }
+  }
+  interstellar: insertmovies(
+    value: { title: "Interstellar", director: "Christopher Nolan" }
+  ) {
+    value {
+      title
+    }
+  }
+}
+```
+
+![image](https://github.com/user-attachments/assets/6d3a0180-0975-419c-8167-33fee1cfc176)
 
 
 
