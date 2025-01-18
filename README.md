@@ -53,6 +53,22 @@
 - ![image](https://github.com/user-attachments/assets/2235e230-bed4-498d-9a3b-92c634c4c1be)
 - And Tada you can see your file!
 
+# Part 2: This time we work with Graph API
+
+- Click on connect
+  ![image](https://github.com/user-attachments/assets/4ed234b5-9a40-4e15-b7a3-52850856c561)
+- Scroll down then Select GraphQL API
+  ![image](https://github.com/user-attachments/assets/f398f854-99bb-4e3c-a42e-b1b1aa9ac816)
+- Click on GraphQL Playground
+  ![image](https://github.com/user-attachments/assets/8097a42f-06f5-4e52-887d-fa39f1ccbca5)
+- You would be redirected to the playground
+- Now click on Docs (This will help you understand the things we can do with it)
+  ![image](https://github.com/user-attachments/assets/e4e6a68a-f64b-4331-b0d7-1c73025e484f)
+  
+
+
+
+
 
 
 
