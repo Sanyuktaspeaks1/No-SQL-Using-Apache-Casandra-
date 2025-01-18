@@ -81,7 +81,13 @@
 }
 ```
 - Click on play button to see the execution
-  
+- Now we will edit the URL
+![image](https://github.com/user-attachments/assets/a0d2711a-fc8a-4191-8d84-1c649b836633)
+- We will add our keyspace name (Remember we named it as lets_learn)
+![image](https://github.com/user-attachments/assets/734fab59-62a9-4157-b096-d4ca63d2e462)
+
+
+
 
 
 
