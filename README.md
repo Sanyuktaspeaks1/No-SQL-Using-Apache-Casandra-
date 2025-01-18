@@ -47,6 +47,10 @@
   ![image](https://github.com/user-attachments/assets/4fb41061-9c0d-4742-b47d-f03403916cbb)
 - If you want someone to see what you have written
 -  go to https://hoppscotch.io/
+-  Hoppscotch is a free, open-source API development platform designed to make it easier for developers to test and interact with APIs.
+-  Allows users to send requests to APIs and view responses.
+- Supports various HTTP methods (GET, POST, PUT, DELETE, etc.).
+- Headers, query parameters, and request bodies can be customized.
   ![image](https://github.com/user-attachments/assets/073ab7fc-a2d6-4968-9b03-64ffa253a1f1)
 - here you paste your document ![image](https://github.com/user-attachments/assets/058b96ca-a209-4332-b065-52aabebb2c48)
 - Select header and type your token
