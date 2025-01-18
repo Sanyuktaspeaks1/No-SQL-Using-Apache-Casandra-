@@ -66,7 +66,7 @@
   ![image](https://github.com/user-attachments/assets/e4e6a68a-f64b-4331-b0d7-1c73025e484f)
 - Using Doc you can understand the syntax, no need to remember it
   ![image](https://github.com/user-attachments/assets/71e635e0-41fb-4123-a524-0da23a56c7de)
-  ```diff
+```diff
   mutation {
   createTable(
     keyspaceName: "lets_learn",
@@ -83,8 +83,11 @@
 - Click on play button to see the execution
 - Now we will edit the URL
 ![image](https://github.com/user-attachments/assets/a0d2711a-fc8a-4191-8d84-1c649b836633)
+
 - We will add our keyspace name (Remember we named it as lets_learn)
 ![image](https://github.com/user-attachments/assets/734fab59-62a9-4157-b096-d4ca63d2e462)
+
+
 
 
 
