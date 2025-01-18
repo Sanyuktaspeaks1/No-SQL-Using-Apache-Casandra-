@@ -64,7 +64,25 @@
 - You would be redirected to the playground
 - Now click on Docs (This will help you understand the things we can do with it)
   ![image](https://github.com/user-attachments/assets/e4e6a68a-f64b-4331-b0d7-1c73025e484f)
+- Using Doc you can understand the syntax, no need to remember it
+  ![image](https://github.com/user-attachments/assets/71e635e0-41fb-4123-a524-0da23a56c7de)
+  ```diff
+  mutation {
+  createTable(
+    keyspaceName: "lets_learn",
+    tableName: "events_new",
+    partitionKeys: [
+      { name: "location", type: { basic: TEXT } }
+    ],
+    values: [
+      { name: "values", type: { basic: TEXT } }
+    ]
+  )
+}
+```
+- Click on play button to see the execution
   
+
 
 
 
