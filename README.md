@@ -1,5 +1,8 @@
 # No-SQL-Using-Apache-Casandra
-* Create an account on 
+* Create an account on https://accounts.datastax.com/session-service/v1/login
+## What is DataStax?
+ * DataStax is a company that provides tools and services for managing Apache Cassandra, a powerful NoSQL database.
+ * It focuses on making Cassandra more accessible through cloud services, developer tools, and integrations.
 * Click on databases tab
   ![image](https://github.com/user-attachments/assets/fa19d5b4-d3f2-498f-a126-4c36ae54fe18)
 * Then click on create a new database
