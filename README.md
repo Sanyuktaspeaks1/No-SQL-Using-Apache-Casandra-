@@ -132,7 +132,33 @@ mutation {
 
 ![image](https://github.com/user-attachments/assets/6d3a0180-0975-419c-8167-33fee1cfc176)
 
+## Retrieve the title and director of the movie "Inception" using this query:
 
+![image](https://github.com/user-attachments/assets/224ae4a1-0936-4451-88a7-ca3db3668106)
+```diff
+query oneMovie {
+  movies(value: { title: "Inception" }) {
+    values {
+      title
+      director
+    }
+  }
+}
+```
+```diff
+1. query oneMovie
+This specifies the operation type as a query, which is used to fetch data from the database.
+The query is named oneMovie for identification purposes. Naming is optional but helps in organizing and debugging queries in complex systems.
+2. movies
+movies is the GraphQL field being queried.
+It represents the table or resource from which you want to fetch data.
+
+3. (value: { title: "Inception" })
+The value argument acts as a filter for the query.
+4. title and director:
+These are the specific fields from the movies table you want in the response.
+In this case, it will return the title and director of the movie.
+```
 
 
 
